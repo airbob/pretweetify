@@ -1,4 +1,4 @@
-pretweetify
+[pretweetify](http://airbob.github.io/pretweetify/)
 ===========
 
 A Chrome/Firefox/Safari extension to prettify your tweets
