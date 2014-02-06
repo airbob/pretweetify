@@ -228,7 +228,9 @@ p {
     border-bottom: 1px solid #eee;
 }
 
-
+.del {
+    text-decoration:line-through;
+}
 .content .content-subhead {
     color: #999;
     padding-bottom: 0.3em;
